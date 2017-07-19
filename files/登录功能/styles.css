@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:526px;
+  width:600px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -74,4 +74,25 @@
   text-decoration:none;
   color:#000000;
   text-align:left;
+}
+#u5 {
+  position:absolute;
+  left:500px;
+  top:360px;
+  width:100px;
+  height:30px;
+}
+#u5_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u6 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:96px;
+  word-wrap:break-word;
 }
